@@ -1,0 +1,8 @@
+# 不要提交固件、工具包、备份或日志
+*.zip
+*.DAT
+*.bin
+toolkit/
+work/
+backup/
+logs/
